@@ -111,5 +111,5 @@ plt.show()
 unseen_data = np.array([11, 8])
 
 model.predict(unseen_data)
-"
+"""
 
